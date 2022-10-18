@@ -1,4 +1,4 @@
-**Olá, me chamo Talita Rienzi** 
+# Olá, me chamo Talita Rienzi 
 Seja muito bem vindo ao meu perfil 💕
 
 Hello Devs
