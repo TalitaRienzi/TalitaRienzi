@@ -1,13 +1,15 @@
 # Talita Rienzi 
 **Seja muito bem vindo ao meu perfil** 💕
 
-### **_Hello Devs_**
-- 💁 Tenho 30 anos, moro em Ferraz de Vasconcelos/SPe sou apaixonada por programação. Sou iniciante no mundo da programação, porém amo aprender💪 
+### **_Hi Devs!!_**
+- 💁 Tenho 30 anos, moro em Ferraz de Vasconcelos/SP e sou apaixonada por programação. Sou iniciante no mundo da programação, porém amo aprender💪 
 - 🔭 Sou estudante de Ciência da Computação, estou no 3° semestre...
 - 🤔 Estou em busca do meu primeiro emprego/estágio na área...
-<br><br>
+</br>
 
-<div><a href="https://tenor.com/view/code-coding-computer-gif-19684211">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://tenor.com/view/code-coding-computer-gif-19684211" width="350">
+</p>
 
 **Atualmente estou aprendendo:** <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60" />
