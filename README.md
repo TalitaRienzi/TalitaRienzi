@@ -1,5 +1,5 @@
-** ## Olá, me chamo Talita Rienzi** 
-# Seja muito bem vindo ao meu perfil 💕
+**Olá, me chamo Talita Rienzi** 
+Seja muito bem vindo ao meu perfil 💕
 
 Hello Devs
 - 🔭 Sou estudante de Ciência da Computação, estou no 3° semestre...
