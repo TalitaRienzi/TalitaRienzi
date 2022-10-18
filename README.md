@@ -1,7 +1,7 @@
 # Talita Rienzi 
 **Seja muito bem vindo ao meu perfil** 💕
 
-## **_Hello Devs_**
+### **_Hello Devs_**
 - 💁 Tenho 30 anos, moro em Ferraz de Vasconcelos/SPe sou apaixonada por programação. Sou iniciante no mundo da programação, porém amo aprender💪 
 - 🔭 Sou estudante de Ciência da Computação, estou no 3° semestre...
 - 🤔 Estou em busca do meu primeiro emprego/estágio na área...
