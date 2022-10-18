@@ -7,7 +7,7 @@
 - 🤔 Estou em busca do meu primeiro emprego/estágio na área...
 <br><br>
 
-<div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-computer-gif-19684211">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div><a href="https://tenor.com/view/code-coding-computer-gif-19684211">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 **Atualmente estou aprendendo:** <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60" />
